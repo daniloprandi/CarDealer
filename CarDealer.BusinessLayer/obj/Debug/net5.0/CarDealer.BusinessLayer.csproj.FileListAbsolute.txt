@@ -1,0 +1,12 @@
+C:\Users\DaniloPrandi\Desktop\CarDealer\CarDealer.BusinessLayer\bin\Debug\net5.0\CarDealer.BusinessLayer.deps.json
+C:\Users\DaniloPrandi\Desktop\CarDealer\CarDealer.BusinessLayer\bin\Debug\net5.0\CarDealer.BusinessLayer.dll
+C:\Users\DaniloPrandi\Desktop\CarDealer\CarDealer.BusinessLayer\bin\Debug\net5.0\ref\CarDealer.BusinessLayer.dll
+C:\Users\DaniloPrandi\Desktop\CarDealer\CarDealer.BusinessLayer\bin\Debug\net5.0\CarDealer.BusinessLayer.pdb
+C:\Users\DaniloPrandi\Desktop\CarDealer\CarDealer.BusinessLayer\obj\Debug\net5.0\CarDealer.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\DaniloPrandi\Desktop\CarDealer\CarDealer.BusinessLayer\obj\Debug\net5.0\CarDealer.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaniloPrandi\Desktop\CarDealer\CarDealer.BusinessLayer\obj\Debug\net5.0\CarDealer.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\DaniloPrandi\Desktop\CarDealer\CarDealer.BusinessLayer\obj\Debug\net5.0\CarDealer.BusinessLayer.AssemblyInfo.cs
+C:\Users\DaniloPrandi\Desktop\CarDealer\CarDealer.BusinessLayer\obj\Debug\net5.0\CarDealer.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DaniloPrandi\Desktop\CarDealer\CarDealer.BusinessLayer\obj\Debug\net5.0\CarDealer.BusinessLayer.dll
+C:\Users\DaniloPrandi\Desktop\CarDealer\CarDealer.BusinessLayer\obj\Debug\net5.0\ref\CarDealer.BusinessLayer.dll
+C:\Users\DaniloPrandi\Desktop\CarDealer\CarDealer.BusinessLayer\obj\Debug\net5.0\CarDealer.BusinessLayer.pdb

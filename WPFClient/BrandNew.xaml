@@ -1,0 +1,30 @@
+﻿<Window x:Class="WPFClient.BrandNew"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFClient"
+        mc:Ignorable="d"
+        Title="BrandNew" Height="450" Width="800">
+	<Border Padding="10">
+		<StackPanel>
+			<Grid HorizontalAlignment="Center" Margin="0 10">
+					<Grid.ColumnDefinitions>
+						<ColumnDefinition Width="200" />
+					<ColumnDefinition Width="200" />
+				</Grid.ColumnDefinitions>
+
+					<StackPanel Grid.Column="0" Margin="0 0 10 0">
+						<TextBlock Text="Codice:" />
+						<TextBox x:Name="TxtId" Padding="2" />
+					</StackPanel>
+
+					<StackPanel Grid.Column="1" Margin="10 0 0 0" >
+						<TextBlock Text="Descrizione:" />
+						<TextBox x:Name="TxtName" Padding="2" />
+					</StackPanel>
+			</Grid>
+			<Button x:Name="BtnInsert" Content="Insert" Click="BtnInsert_Click" Width="150" />	
+		</StackPanel>
+	</Border>
+</Window>
